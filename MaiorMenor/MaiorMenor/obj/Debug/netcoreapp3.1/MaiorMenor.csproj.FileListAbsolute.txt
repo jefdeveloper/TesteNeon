@@ -1,0 +1,14 @@
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\bin\Debug\netcoreapp3.1\MaiorMenor.exe
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\bin\Debug\netcoreapp3.1\MaiorMenor.deps.json
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\bin\Debug\netcoreapp3.1\MaiorMenor.runtimeconfig.json
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\bin\Debug\netcoreapp3.1\MaiorMenor.runtimeconfig.dev.json
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\bin\Debug\netcoreapp3.1\MaiorMenor.dll
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\bin\Debug\netcoreapp3.1\MaiorMenor.pdb
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\obj\Debug\netcoreapp3.1\MaiorMenor.csproj.AssemblyReference.cache
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\obj\Debug\netcoreapp3.1\MaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\obj\Debug\netcoreapp3.1\MaiorMenor.AssemblyInfoInputs.cache
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\obj\Debug\netcoreapp3.1\MaiorMenor.AssemblyInfo.cs
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\obj\Debug\netcoreapp3.1\MaiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\obj\Debug\netcoreapp3.1\MaiorMenor.dll
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\obj\Debug\netcoreapp3.1\MaiorMenor.pdb
+C:\Users\jef_m\source\repos\MaiorMenor\MaiorMenor\obj\Debug\netcoreapp3.1\MaiorMenor.genruntimeconfig.cache

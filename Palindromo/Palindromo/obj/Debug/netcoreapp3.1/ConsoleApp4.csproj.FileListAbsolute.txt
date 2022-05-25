@@ -1,0 +1,14 @@
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.exe
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.deps.json
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.json
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.dev.json
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.dll
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.pdb
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfo.cs
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.dll
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.pdb
+C:\Users\jef_m\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.genruntimeconfig.cache
